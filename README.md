@@ -4,6 +4,8 @@ This is a simple camera app for the android platform using Cordova.
 
 **Link to the apk:** https://bit.ly/3SP189i
 
+**Link to the livesite:** https://cordocam.netlify.app/
+
 ![alt tag](https://i.imgur.com/UONkcP6.jpg)
 
 ## How its Made:
